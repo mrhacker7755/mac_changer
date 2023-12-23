@@ -1,2 +1,2 @@
-# mac_changer
-all interface for linux 
+# mac_changer #security #linux
+applies to all interfaces of linux
